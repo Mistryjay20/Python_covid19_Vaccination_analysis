@@ -4,10 +4,10 @@ This project provides an insightful analysis of COVID-19 vaccination data using 
 The aim of this project is to analyze global or country-specific COVID-19 vaccination trends using real-world datasets
 
 🔧 Technologies Used
-Python 🐍
-Pandas – for data analysis and manipulation
-NumPy – for numerical operations
-Matplotlib - for visualizations
+1.  Python 🐍
+2.  Pandas – for data analysis and manipulation
+3.  NumPy – for numerical operations
+4.  Matplotlib - for visualizations
 
 📌 Features
 1.  Cleaned and preprocessed real-world vaccination data
